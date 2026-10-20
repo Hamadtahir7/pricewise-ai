@@ -1,0 +1,29 @@
+# PriceWise AI
+
+An AI-powered price comparison web application that helps users find the best price for a product and discover cheaper alternatives, built as our semester project for Software Construction and Development.
+
+## Problem
+
+Online shoppers often don't know if they're getting the best price, since prices vary across retailers and change frequently. PriceWise AI solves this by searching multiple stores at once, highlighting the lowest price, and suggesting similar cheaper alternatives.
+
+## Group Members
+
+- Hamad Tahir
+- Abdussalam
+- Muhammad Awais
+
+## Tech Stack
+
+- **Frontend:** Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, TypeScript
+- **Database:** PostgreSQL (via Prisma ORM)
+- **External API:** SerpAPI (Google Shopping data)
+- **Auth:** JWT (email/password) and Google OAuth
+
+## Features
+
+- Product search with multi-store price comparison
+- AI-powered cheaper alternative suggestions
+- Price history tracking
+- Wishlist and price-drop alerts with email notifications
+- User dashboard (wishlist, alerts, search history)
